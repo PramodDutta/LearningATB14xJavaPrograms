@@ -13,6 +13,8 @@ public class Lab006_Comments_Multi {
      * Learning :  Java
      *
      **/
+
+    // This is sample
     public static void main(String[] args) {
         /**
          * Author : Pramod Dutta
